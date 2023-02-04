@@ -16,7 +16,9 @@
 
 // }
 // printGrade(80)
-let a ="manishyadav"
+let a ="atul" 
+// my self atul
+// my friend manish
 function printGrade(number){
     if(number==100){
         console.log("A")
